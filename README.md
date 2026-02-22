@@ -33,7 +33,7 @@ A Tampermonkey userscript that automates Twitter/X's native tweet scheduler, all
    - Delete the default template
 
 3. **Copy & Paste Script**
-   - Copy the entire script from `Untitled-1.ts`
+   - Copy the entire script from [Twitter Batch Scheduler Script](https://github.com/bleakbanksy/twitter-batch-scheduler/blob/main/twitter-batch-scheduler-script)
    - Paste into the Tampermonkey editor
    - Press `Ctrl+S` / `Cmd+S` to save
 
