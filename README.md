@@ -18,7 +18,7 @@ A Tampermonkey userscript that automates Twitter/X's native tweet scheduler, all
 ## 🚀 Installation
 
 ### Prerequisites
-- **Tampermonkey** browser extension (install from [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobp55f), [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), or similar)
+- **Tampermonkey** browser extension (install from [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), or similar)
 - Twitter/X account
 - Chrome, Firefox, Edge, or Safari
 
